@@ -158,7 +158,7 @@ nav ul li a:hover::before {
     border-right: 10px solid rgb(66, 139, 202);
     border-bottom: 10px solid rgb(202, 66, 129);
     border-left: 10px solid rgba(66, 139, 202, .2);
-    animation: rotacion 0.4s infinite;
+    animation: rotacion 0.8s infinite linear;
 }
 
 /* keyframes
